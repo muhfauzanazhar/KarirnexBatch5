@@ -28,17 +28,17 @@ Some of the projects available in this portfolio include:
    Analyzed sales performance to identify trends, top products, and business opportunities.
 
 2. **Dashboard & Reporting**
-   Built interactive dashboards to visualize KPIs and business metrics. Click here to see interactive dashboards at Looker Studio: bit.ly/DashboardKarirnex
+   Built interactive dashboards to visualize KPIs and business metrics. Click here to see interactive dashboards at Looker Studio: https://bit.ly/DashboardKarirnex
 
 ## 🎯 Purpose
 
-This portfolio was created to showcase my learning journey, analytical thinking, and technical skills in the field of data analytics. Each project demonstrates my ability to work with data and communicate insights effectively.
+This portfolio was created to showcase my learning journey, analytical thinking, and technical skills in data analytics. Each project demonstrates my ability to work with data and communicate insights effectively.
 
 ## 📬 Contact
 
 Feel free to connect with me through:
 
-* LinkedIn: linkedin.com/in/muhamadfauzanazhar
+* LinkedIn: https://linkedin.com/in/muhamadfauzanazhar
 * Email: fazhar475@gmail.com
 
 Thank you for visiting this portfolio!
