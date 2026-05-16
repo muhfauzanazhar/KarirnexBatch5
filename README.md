@@ -1,4 +1,4 @@
-# Karirnex Data Analyst Bootcamp Batch 5
+# Data Analyst Bootcamp Batch 5 by Karirnex
 
 Welcome to my Data Analyst Bootcamp Portfolio. This repository contains projects, case studies, and hands-on exercises that I completed during my data analyst training program. The project focuses on transforming raw data into meaningful insights using data cleaning, analysis, visualization, and reporting techniques.
 
